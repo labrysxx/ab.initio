@@ -1,0 +1,18 @@
+.masthead a {
+    text-decoration: none;
+    color: #002B5B;
+    display: block;
+    padding: .5em;
+    font-size: 2em;
+}
+
+.masthead a:hover {
+    text-decoration: underline;
+}
+ 
+.masthead {
+    background-color: #E4DCCF;
+    margin-bottom: 4em;
+}
+
+
