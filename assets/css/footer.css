@@ -14,9 +14,7 @@ footer {
   width: 50%;
 }
 
-.about small {
-  font-size: 50%;
-}
+
 
 /* footer h3, footer h4 {
   display: block;
@@ -46,5 +44,9 @@ footer {
 
   .social-media {
     margin: 0 .8em;
+  }
+
+  .about small {
+  font-size: 50%;
   }
 }
